@@ -127,13 +127,13 @@ Follow these steps to install the project on your local machine.
 
 ## Usage
 
-Once the installation is complete, you can access the application in your browser at `http://localhost:8000`. Below are some examples of how to use the available features.
+Once the installation is complete, you can access the application in your browser at `http://localhost:8000`.
 
-- **Add Item:**
-    ![Add Item](https://via.placeholder.com/800x400?text=Screenshot+Add+Item)
+- **Adding Items**: Navigate to the "Add Item" section in the application menu and fill out the required fields in the form. Submit the form to add a new item to the database.
 
-- **Edit Item:**
-    ![Edit Item](https://via.placeholder.com/800x400?text=Screenshot+Edit+Item)
+- **Editing Items**: Go to the "Item List" section, find the item you want to edit, and click the "Edit" button. Update the necessary fields and save the changes.
+
+- **Deleting Items**: In the "Item List" section, find the item you want to delete, and click the "Delete" button. Confirm the deletion in the popup that appears.
 
 ## Contributing
 
@@ -151,6 +151,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@username](https://instagram.com/hnifrbn) - hanif@mail.com
+Your Name - [@hnifrbn](https://instagram.com/hnifrbn) - hanif@mail.com
 
 Project Link: [https://github.com/hanifrobbani/thirteen-blog](https://github.com/hanifrobbani/thirteen-blog)
