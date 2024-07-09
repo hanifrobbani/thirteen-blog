@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -63,4 +63,94 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
+
+# Laravel + Tailwind CSS Project
+
+![Laravel + Tailwind](https://raw.githubusercontent.com/laravel/art/master/laravel-l-slant.png)
+
+This project is a web application built using Laravel and Tailwind CSS. It provides a robust framework for modern web application development with consistent and easily customizable styling.
+
+## Table of Contents
+
+- [About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About
+
+This project integrates Laravel as the backend and Tailwind CSS as the CSS framework for styling. The aim is to provide a strong foundation for starting web application development with ease.
+
+## Installation
+
+Follow these steps to install the project on your local machine.
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/hanifrobbani/thirteen-blog.git
+    cd thirteen-blog
+    ```
+
+2. Install Laravel dependencies:
+    ```bash
+    composer install
+    ```
+
+3. Copy the .env file and configure your environment:
+    ```bash
+    cp .env.example .env
+    php artisan key:generate
+    ```
+
+4. Install Node.js dependencies:
+    ```bash
+    npm install
+    ```
+
+5. Compile frontend assets using Laravel Mix:
+    ```bash
+    npm run dev
+    ```
+
+6. Run database migrations:
+    ```bash
+    php artisan migrate
+    ```
+
+7. Start the development server:
+    ```bash
+    php artisan serve
+    ```
+
+## Usage
+
+Once the installation is complete, you can access the application in your browser at `http://localhost:8000`. Below are some examples of how to use the available features.
+
+- **Add Item:**
+    ![Add Item](https://via.placeholder.com/800x400?text=Screenshot+Add+Item)
+
+- **Edit Item:**
+    ![Edit Item](https://via.placeholder.com/800x400?text=Screenshot+Edit+Item)
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork this repository.
+2. Create your feature branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a Pull Request.
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Your Name - [@username](https://instagram.com/hnifrbn) - hanif@mail.com
+
+Project Link: [https://github.com/hanifrobbani/thirteen-blog](https://github.com/hanifrobbani/thirteen-blog)
