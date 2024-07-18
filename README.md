@@ -148,9 +148,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@hnifrbn](https://instagram.com/hnifrbn) - hanif@mail.com
-
-Project Link: [https://github.com/hanifrobbani/thirteen-blog](https://github.com/hanifrobbani/thirteen-blog)
