@@ -67,8 +67,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Laravel + Tailwind CSS Project
 
-![Laravel + Tailwind](https://raw.githubusercontent.com/laravel/art/master/laravel-l-slant.png)
-
 This project is a web application built using Laravel and Tailwind CSS. It provides a robust framework for modern web application development with consistent and easily customizable styling.
 
 ## Table of Contents
