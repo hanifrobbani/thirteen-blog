@@ -27,7 +27,7 @@
                     <div class="absolute inset-0 flex items-end justify-center pb-10 px-4">
                         <div class="flex flex-col">
                             <h1 class="text-white text-2xl font-medium">Welcome Back to Thirteen Blog</h1>
-                            <p class="text-white text-sm">Enter your credentials to access your account.</p>
+                            <p class="text-white text-sm">Le'ts make a wonderful thing Together!</p>
                         </div>
                     </div>
                 </div>
@@ -43,13 +43,13 @@
                                 <path fill="#4caf50" d="M24,44c5.166,0,9.86-1.977,13.409-5.192l-6.19-5.238C29.211,35.091,26.715,36,24,36	c-5.202,0-9.619-3.317-11.283-7.946l-6.522,5.025C9.505,39.556,16.227,44,24,44z"></path>
                                 <path fill="#1565c0" d="M43.611,20.083L43.595,20L42,20H24v8h11.303c-0.792,2.237-2.231,4.166-4.087,5.571	c0.001-0.001,0.002-0.001,0.003-0.002l6.19,5.238C36.971,39.205,44,34,44,24C44,22.659,43.862,21.35,43.611,20.083z"></path>
                             </svg>
-                            <p class="text-sm font-semibold text-slate-700">Log in with Google</p>
+                            <p class="text-sm font-semibold text-slate-700">Sign in with Google</p>
                         </div>
                         <div class="w-full border-2 flex gap-1 p-2 justify-center items-center rounded-lg hover:bg-slate-100 transition duration-200 hover:border-opacity-0">
                             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0 0 50 50">
                                 <path d="M 44.527344 34.75 C 43.449219 37.144531 42.929688 38.214844 41.542969 40.328125 C 39.601563 43.28125 36.863281 46.96875 33.480469 46.992188 C 30.46875 47.019531 29.691406 45.027344 25.601563 45.0625 C 21.515625 45.082031 20.664063 47.03125 17.648438 47 C 14.261719 46.96875 11.671875 43.648438 9.730469 40.699219 C 4.300781 32.429688 3.726563 22.734375 7.082031 17.578125 C 9.457031 13.921875 13.210938 11.773438 16.738281 11.773438 C 20.332031 11.773438 22.589844 13.746094 25.558594 13.746094 C 28.441406 13.746094 30.195313 11.769531 34.351563 11.769531 C 37.492188 11.769531 40.8125 13.480469 43.1875 16.433594 C 35.421875 20.691406 36.683594 31.78125 44.527344 34.75 Z M 31.195313 8.46875 C 32.707031 6.527344 33.855469 3.789063 33.4375 1 C 30.972656 1.167969 28.089844 2.742188 26.40625 4.78125 C 24.878906 6.640625 23.613281 9.398438 24.105469 12.066406 C 26.796875 12.152344 29.582031 10.546875 31.195313 8.46875 Z"></path>
                             </svg>
-                            <p class="text-sm font-semibold text-slate-700">Log in with Apple</p>
+                            <p class="text-sm font-semibold text-slate-700">Sign in with Apple</p>
                         </div>
                     </div>
                     <div class="container mt-7">

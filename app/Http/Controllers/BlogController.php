@@ -13,7 +13,7 @@ class BlogController extends Controller
      */
     public function index()
     {
-        $blogs = Blog::where('create_by', auth()->user()->name)->get();
+        $blogs = Blog::where('email', auth()->user()->email)->get();
         return view('post.index', compact('blogs'));
     }
 

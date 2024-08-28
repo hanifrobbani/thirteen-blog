@@ -42,21 +42,6 @@
                 <a href="" class="nav-item border-b-2 border-blue-500 border-opacity-0 hover:border-opacity-100 text-white hover:text-blue-500 transition font-semibold duration-300">
                     <li>Galeri</li>
                 </a>
-                <!-- <li>
-                    <svg class="w-8 h-8 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
-                        <path stroke="currentColor" stroke-width="2" d="M7 17v1a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-1a3 3 0 0 0-3-3h-4a3 3 0 0 0-3 3Zm8-9a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
-                    </svg>
-                </li> -->
-                <!-- <li>
-                    <svg class="text-white" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
-                    </svg>
-                </li> -->
-                <!-- <li>
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-                    </svg>
-                </li> -->
                 <li>
                     @auth
                     <div class="relative inline-block text-left">
@@ -117,17 +102,17 @@
 
                 <div class="bg-contain bg-no-repeat bg-center overflow-hidden w-80 h-80 flex justify-center items-center" style="background-image: url(https://images.pexels.com/photos/1600727/pexels-photo-1600727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);">
                     <div class="w-[150px] h-[70px] bg-white hover:bg-blue-600 transition duration-300 flex items-center justify-center text-blue-500 text-xl hover:text-white">
-                        <p>Travel</p>
-                    </div>
-                </div>
-                <div class="bg-contain bg-no-repeat bg-center overflow-hidden w-80 h-80 flex justify-center items-center" style="background-image: url(https://images.pexels.com/photos/1600727/pexels-photo-1600727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);">
-                    <div class="w-[150px] h-[70px] bg-white hover:bg-blue-600 transition duration-300 flex items-center justify-center text-blue-500 text-xl hover:text-white">
                         <p>Fun</p>
                     </div>
                 </div>
-                <div class="bg-contain bg-no-repeat bg-center overflow-hidden w-80 h-80 flex justify-center items-center" style="background-image: url(https://images.pexels.com/photos/1600727/pexels-photo-1600727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);">
+                <div class="bg-contain bg-no-repeat bg-center overflow-hidden w-80 h-80 flex justify-center items-center" style="background-image: url(https://images.pexels.com/photos/6469/red-hands-woman-creative.jpg?auto=compress&cs=tinysrgb&w=600);">
                     <div class="w-[150px] h-[70px] bg-white hover:bg-blue-600 transition duration-300 flex items-center justify-center text-blue-500 text-xl hover:text-white">
                         <p>Blog</p>
+                    </div>
+                </div>
+                <div class="bg-contain bg-no-repeat bg-center overflow-hidden w-80 h-80 flex justify-center items-center" style="background-image: url(https://images.pexels.com/photos/269583/pexels-photo-269583.jpeg?auto=compress&cs=tinysrgb&w=600);">
+                    <div class="w-[150px] h-[70px] bg-white hover:bg-blue-600 transition duration-300 flex items-center justify-center text-blue-500 text-xl hover:text-white">
+                        <p>Travel</p>
                     </div>
                 </div>
             </div>

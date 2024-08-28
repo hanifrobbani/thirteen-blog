@@ -33,7 +33,7 @@
             </div>
             <div class="block w-full">
                 <label for="email" class="block font-semibold">Email <span class="text-red-600 text-lg">*</span></label>
-                <input type="text" class="p-2 mt-1 border-2 border-slate-300 rounded-md focus:bg-slate-100 focus:border-blue-600 outline-none w-full" value="{{ old('email', $users->email)}}" name="email">
+                <input type="text" class="p-2 mt-1 border-2 border-slate-300 rounded-md focus:bg-slate-100 focus:border-blue-600 outline-none w-full" value="{{ old('email', $users->email)}}" name="email" readonly>
             </div>
         </div>
         <div class="flex justify-start py-4 pl-5 pr-24 gap-8">
@@ -57,7 +57,7 @@
 
         <div class="w-full p-5">
             <button class="px-4 py-3 bg-blue-600 text-white font-semibold text-sm rounded-lg mr-2" type="submit">Save Changes</button>
-            <a href="/dashboard" class="px-4 py-3 bg-red-600 text-white font-semibold text-sm rounded-lg">Cancel</a>
+            <a href="/blog" class="px-4 py-3 bg-red-600 text-white font-semibold text-sm rounded-lg">Cancel</a>
         </div>
     </div>
 </form>
