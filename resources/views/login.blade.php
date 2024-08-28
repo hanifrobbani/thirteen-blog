@@ -81,7 +81,7 @@
                     <div class="absolute inset-0 flex items-end justify-center pb-10 px-4">
                         <div class="flex flex-col">
                             <h1 class="text-white text-2xl font-medium">Welcome Back to Thirteen Blog</h1>
-                            <p class="text-white text-sm">Enter your credentials to access your account.</p>
+                            <p class="text-white text-sm">Enter your credential to access your account.</p>
                         </div>
                     </div>
                 </div>
