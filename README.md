@@ -78,10 +78,6 @@ This project is a web application built using Laravel and Tailwind CSS. It provi
 - [License](#license)
 - [Contact](#contact)
 
-## About
-
-This project integrates Laravel as the backend and Tailwind CSS as the CSS framework for styling. The aim is to provide a strong foundation for starting web application development with ease.
-
 ## Installation
 
 Follow these steps to install the project on your local machine.
